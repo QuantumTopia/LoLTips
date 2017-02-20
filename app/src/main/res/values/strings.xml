@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LoLTips</string>
+    <string name="get_varus_button_text">Get Varus</string>
 </resources>
